@@ -13,3 +13,6 @@ class TotalNumOfOddNum
  System.out.println("The Count Of Odd Numbers are:" + count);
  }
  }
+
+OUTPUT:
+The Count Of Odd Numbers are:50
